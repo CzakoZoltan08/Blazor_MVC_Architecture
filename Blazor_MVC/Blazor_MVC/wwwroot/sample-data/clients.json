@@ -1,0 +1,14 @@
+﻿[
+  {
+    "firstname": "First",
+    "lastname": "User",
+    "email": "first@gmail.com",
+    "mobile": "+40740000000"
+  },
+  {
+    "firstname": "Second",
+    "lastname": "User",
+    "email": "second@gmail.com",
+    "mobile": "+40740000001"
+  }
+]
